@@ -1,3 +1,4 @@
 membuat fitur landing page
 selesai
 membuat fitur register
+selesai
